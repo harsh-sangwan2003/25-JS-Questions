@@ -10,4 +10,4 @@ A quick guide to my Project ->
 
 ## Usage
 
-Hey! take your JS understading to next level solving these questions!
+Hey! take your JS understading to next level by solving these questions!
